@@ -6,10 +6,11 @@ int main()
 
     while (flag)
     {
-        printf("\nMENU\n1 Check EVEN or ODD\n2 Check POSTIVIE or NEGATIVE\n3 Find SQUARE\n4 Find CUBE\n5 Exit the program\n");
+        printf("\n------MENU\n1 Check EVEN or ODD\n2 Check POSTIVIE or NEGATIVE\n3 Find SQUARE\n4 Find CUBE\n5 Exit the program\n");
         printf("\nYour choice and number: ");
         scanf("%d %d", &choice, &num);
 
+        printf("\n");
         switch (choice)
         {
         case 1:

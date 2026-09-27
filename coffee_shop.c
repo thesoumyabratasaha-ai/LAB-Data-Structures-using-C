@@ -7,7 +7,7 @@ int main()
 
     while (flag)
     {
-        printf("------MENU------\n\t1. Tea\n\t2. Coffee\n\t3. Cold drink\n\t4. Exit");
+        printf("\nṇ------MENU------\n\t1. Tea\n\t2. Coffee\n\t3. Cold drink\n\t4. Exit");
         printf("\nYour choice: ");
         scanf("%d", &choice);
 
