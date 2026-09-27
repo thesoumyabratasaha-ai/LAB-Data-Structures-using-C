@@ -1,3 +1,4 @@
+// Menu driven program using switch case
 #include <stdio.h>
 
 int main()
@@ -6,7 +7,7 @@ int main()
 
     while (flag)
     {
-        printf("\n------MENU\n1 Check EVEN or ODD\n2 Check POSTIVIE or NEGATIVE\n3 Find SQUARE\n4 Find CUBE\n5 Exit the program\n");
+        printf("\n----- Menu -----\n1 Check EVEN or ODD\n2 Check POSTIVIE or NEGATIVE\n3 Find SQUARE\n4 Find CUBE\n5 Exit the program\n");
         printf("\nYour choice and number: ");
         scanf("%d %d", &choice, &num);
 

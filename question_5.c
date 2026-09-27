@@ -1,3 +1,4 @@
+// find sum of array using recursion
 #include <stdio.h>
 
 int arraySum(int arr[], int n)
@@ -13,12 +14,12 @@ int main()
     scanf("%d", &n);
     int arr[n];
 
-    printf("Enter array with spaces: ");
+    printf("Enter array: ");
 
     for (i = 0; i < n; i++)
         scanf("%d", &arr[i]);
 
-    printf("Sum = %d", arraySum(arr, n));
+    printf("Sum: %d", arraySum(arr, n));
 
     return 0;
 }

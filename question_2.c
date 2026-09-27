@@ -1,3 +1,4 @@
+// count even and odd elements in an array
 #include <stdio.h>
 
 int countEven(int arr[], int n)

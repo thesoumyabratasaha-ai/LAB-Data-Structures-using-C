@@ -1,3 +1,4 @@
+// swap max and min elements in an array
 #include <stdio.h>
 
 int main()

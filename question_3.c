@@ -1,3 +1,4 @@
+// find average of array
 #include <stdio.h>
 
 float calculateAverage(float arr[], int n)

@@ -1,3 +1,4 @@
+// Program to get highest salary and average salary
 #include <stdio.h>
 
 // Structure employee
@@ -39,13 +40,13 @@ int main()
 
     averageSalary = totalSalary / n;
 
-    printf("\n--- Employee with the Highest Salary ---\n");
+    printf("\n----- Highest Salary -----\n");
     printf("ID: %d\n", emp[imax].id);
     printf("Name: %s\n", emp[imax].name);
     printf("Salary: %.2f\n", emp[imax].salary);
 
-    printf("\n----------------------------------------\n");
-    printf("Average Salary of all employees: %.2f\n", averageSalary);
+    printf("\n----- Average Salary -----\n");
+    printf("%.2f\n", averageSalary);
 
     return 0;
 }
