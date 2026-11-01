@@ -1,16 +1,49 @@
-# Data-Structures-using-C
-The following is a list of programs done in DSA
-CSIT124 Practical - Assignment 1
+# Data Structures and Algorithms Using C
 
-1. Find the largest and smallest elements in an Array and swap their position in the final array. 
-2. Write a C program to read n integers into an array. Create a user-defined function countEven() that accepts the array and its size and returns the number of even elements to the main() function. The main() function should then calculate the number of odd elements using the total number of elements.
-3. Read n floating-point numbers into an array. Create a user-defined function calculateAverage() that accepts the array and its size and returns the average of all the elements to the main() function.
-4. Write a C program to read n integers into an array and find the second largest element. Create a user-defined function findSecondLargest() that accepts the array and its size and returns the second largest element to the main() function.
-5. Read n integers into an array and calculate the sum of all elements using a recursive function arraySum(). The function should accept the array and its size/index as arguments and return the sum to main().
-6. Create a menu-driven program that allows the user to:
-    a. Check whether a number is even or odd
-    b. Check whether a number is positive, negative, or zero
-    c. Find the square of a number
-    d. Find the cube of a number
-    e. Exit
-8. Store details of n employees using an array of structures. Display the employee having the highest salary and calculate the average salary of all employees.
+This repository contains C programs completed as part of the **Data Structures and Algorithms Using C (DSA)** laboratory course.
+
+## Assignments
+
+### Assignment 1 – Arrays and Functions
+1. Find the largest and smallest elements in an array and swap their positions.
+2. Count even and odd elements using a function.
+3. Calculate the average of elements in a floating-point array.
+4. Find the second-largest element in an array.
+5. Calculate the sum of array elements using recursion.
+6. Perform operations on numbers using a menu-driven program:
+   - Check even or odd
+   - Check positive, negative, or zero
+   - Calculate square
+   - Calculate cube
+7. Store employee details using structures and find the highest and average salary.
+
+### Assignment 2 – Stack and Recursion
+1. Implement a stack using an array with push, pop, and display operations.
+2. Solve the Tower of Hanoi problem using recursion.
+
+### Assignment 3 – Queue
+1. Implement a simple queue using an array.
+2. Implement a circular queue using an array.
+3. Implement a double-ended queue (Deque).
+
+### Assignment 4 – Linked List
+Implement a singly linked list with the following operations:
+1. Insert at beginning
+2. Insert at any position
+3. Insert at end
+4. Display the list
+5. Count nodes
+6. Delete the first node
+7. Delete the last node
+8. Delete a node at any position
+9. Print the list in reverse order
+
+## Language and Tools
+
+- **Language:** C
+- **IDE:** Visual Studio Code
+- **Compiler:** GCC
+
+## Repository Purpose
+
+This
