@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int stack[3]
-void push()
+
+    void
+    push()
 {
     printf("\nHello world");
 }
