@@ -46,4 +46,4 @@ Implement a singly linked list with the following operations:
 
 ## Repository Purpose
 
-This
+This repository serves as a collection of my DSA laboratory programs and a record of my progress in learning Data Structures and Algorithms using C.
