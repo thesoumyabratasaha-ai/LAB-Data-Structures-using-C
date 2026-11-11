@@ -26,7 +26,7 @@ This repository contains C programs completed as part of the **Data Structures a
 2. Implement a circular queue using an array.
 3. Implement a double-ended queue (Deque).
 
-### Assignment 4 – Linked List
+### Assignment 4 – Singly Linked List
 Implement a singly linked list with the following operations:
 1. Insert at beginning
 2. Insert at any position
@@ -37,6 +37,20 @@ Implement a singly linked list with the following operations:
 7. Delete the last node
 8. Delete a node at any position
 9. Print the list in reverse order
+
+### Assignment 5 – Circular Linked List
+Implement a circular linked list with the following operations:
+1. Insert at the beginning
+2. Insert at the end
+3. Display the list
+4. Delete from the beginning
+5. Delete from the end
+
+### Assignment 6 – Binary Search Tree (BST)
+Implement a Binary Search Tree with the following operations:
+1. Insert an element
+2. Search for an element
+3. Perform in-order traversal
 
 ## Language and Tools
 
